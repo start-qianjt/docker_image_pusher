@@ -2,9 +2,9 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 #支持指定架构
---platform=linux/arm64/v8 elasticsearch:7.16.2
---platform=linux/arm64/v8 logstash:7.16.2
---platform=linux/arm64/v8 kibana:7.16.2
+--platform=linux/arm64/v8 elasticsearch:7.8.0
+--platform=linux/arm64/v8 logstash:7.8.0
+--platform=linux/arm64/v8 kibana:7.8.0
 --platform=linux/arm64/v8 mysql:8.0.30
 --platform=linux/arm64/v8 redis:6.2.5
 --platform=linux/arm64/v8 mongo:4.2.5
