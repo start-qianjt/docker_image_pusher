@@ -3,7 +3,7 @@
 
 # 支持指定架构
 --platform=linux/arm64/v8 mysql:8.4.3
---platform=linux/arm64/v8 redis:6.2.16
+--platform=linux/arm64/v8 redis:6.2.7
 --platform=linux/arm64/v8 mongo:4.2.5
 --platform=linux/arm64/v8 nginx:1.27.2
 --platform=linux/arm64/v8 postgres:15.8
