@@ -8,6 +8,7 @@
 --platform=linux/arm64/v8 mysql:8.0.30
 --platform=linux/arm64/v8 redis:6.2.5
 --platform=linux/arm64/v8 mongo:4.2.5
+--platform=linux/arm64/v8 postgres:16.4
 --platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
 --platform=linux/arm64 rabbitmq:3.13.3-management
 --platform=linux/arm64 bladex/sentinel-dashboard
@@ -16,4 +17,3 @@
 --platform=linux/arm64 minio/minio
 --platform=linux/arm64 bitnami/zookeeper
 --platform=linux/arm64 bitnami/kafka
---platform=linux/arm64 bitnami/postgresql:15.8.0
