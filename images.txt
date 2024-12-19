@@ -12,6 +12,7 @@
 --platform=linux/amd64 mongo:4.2.5
 --platform=linux/amd64 nginx:1.27.2
 --platform=linux/amd64 postgres:15.8
+--platform=linux/amd64 oceanbase/oceanbase-ce:4.2.1
 
 #--platform=linux/arm64/v8 elasticsearch:7.16.3
 #--platform=linux/arm64/v8 logstash:7.16.3
@@ -23,6 +24,7 @@
 #--platform=linux/arm64/v8 zookeeper:3.9.2
 #--platform=linux/arm64 nacos/nacos-server:v2.4.3-slim
 --platform=linux/amd64 zookeeper:3.9.2
+--platform=linux/amd64 nacos/nacos-server:v1.4.8
 --platform=linux/amd64 nacos/nacos-server:v2.4.3
 
 #--platform=linux/arm64 rabbitmq:3.13.3-management
