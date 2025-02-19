@@ -36,7 +36,7 @@
 --platform=linux/arm64/v8 zookeeper:3.9.2
 --platform=linux/amd64    zookeeper:3.9.2
 
---platform=linux/arm64 nacos/nacos-server:v1.4.8-slim
+--platform=linux/arm64 nacos/nacos-server:v2.4.3
 --platform=linux/amd64 nacos/nacos-server:v1.4.8
 
 --platform=linux/arm64 bladex/sentinel-dashboard
